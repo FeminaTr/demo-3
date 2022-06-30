@@ -20,6 +20,7 @@ import java.util.List;
 	@Test public void addUserNew() {
 
 		List<String> users = userService.getNewUsers();
+		
 		Assert.assertEquals(users.size(), 2);
 	}
 
