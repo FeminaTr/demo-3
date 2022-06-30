@@ -21,8 +21,7 @@ import java.util.List;
 
 		List<String> users = new ArrayList<>();
 		users.add("TEST1");
-		users.add("TEST2");
-
+		
 		return users;
 	}
 
