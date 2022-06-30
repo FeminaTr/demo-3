@@ -17,7 +17,7 @@
     <description>Demo project for Spring Boot</description>
     <properties>
         <sonar.language>java</sonar.language>
-     
+
         <sonar.organization>feminatr</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
