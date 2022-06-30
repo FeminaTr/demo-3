@@ -17,12 +17,11 @@ import java.util.List;
 		return users;
 	}
 
-	public List<String> getNewUsers() {
+	public List<String> getNewUsers4() {
 
 		List<String> users = new ArrayList<>();
 		users.add("TEST1");
-		users.add("TEST2");
-
+		
 		return users;
 	}
 
