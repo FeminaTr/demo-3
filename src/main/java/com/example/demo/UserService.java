@@ -17,7 +17,7 @@ import java.util.List;
 		return users;
 	}
 
-	public List<String> getNewUsers2() {
+	public List<String> getNewUsers4() {
 
 		List<String> users = new ArrayList<>();
 		users.add("TEST1");
