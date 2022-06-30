@@ -34,5 +34,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           
-        run: mvn -B sonar:sonar -Pcoverage install -Dsonar.projectKey=FeminaTr_demo-3
+        run: mvn  install sonar:sonar -Pcoverage -Dsonar.java.binaries=target/classes -Dsonar.projectKey=FeminaTr_demo-3
 
