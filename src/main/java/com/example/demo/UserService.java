@@ -11,8 +11,7 @@ import java.util.List;
 
 		List<String> users = new ArrayList<>();
 		users.add("Femina");
-		users.add("Amritha");
-		
+
 		return users;
 	}
 
