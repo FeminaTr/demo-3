@@ -17,7 +17,7 @@
     <properties>
         <sonar.language>java</sonar.language>
         <java.version>11</java.version>
-        <sonar.host.url>http://localhost:9000/</sonar.host.url>
+        <sonar.host.url>https://389c-2405-201-f018-f80d-8816-c993-9676-1efd.in.ngrok.io</sonar.host.url>
         <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
         <sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
         <sonar.language>java</sonar.language>
